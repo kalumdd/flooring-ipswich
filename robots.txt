@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://flooringipswich.co.uk/sitemap.xml
